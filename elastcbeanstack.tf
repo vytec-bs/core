@@ -1,4 +1,4 @@
 
 resource elasticbeanstalk{
-  
+  env: dev
 }
