@@ -5,4 +5,5 @@ resource elasticbeanstalk{
   eunnabkle: docker
   tag: [dev,test,prod]
   type: t2.micro
+  ostype: ubuntu
 }
