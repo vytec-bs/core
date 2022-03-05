@@ -4,4 +4,5 @@ resource elasticbeanstalk{
   capacity: 1gb
   eunnabkle: docker
   tag: [dev,test,prod]
+  type: t2.micro
 }
